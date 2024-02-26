@@ -1,7 +1,9 @@
 import React from "react";
 import "./Card.css";
+import mia from "../assets/Miami-Heat.svg";
 
 const Card = (props) => {
+  console.log(props.home, props.away);
   return (
     <div className="card">
       <p>
@@ -13,6 +15,8 @@ const Card = (props) => {
       <a href={props.info} target="_blank" rel="noopener noreferrer">
         <button>More Info</button>
       </a>
+      <img className="home-logo" src={props.home} />
+      <img className="away-logo" src={props.away} />
     </div>
   );
 };
