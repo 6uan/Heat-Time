@@ -1,0 +1,9 @@
+.card {
+    border-radius: 5px;
+    border: solid black 2px;
+    min-height: 250px;
+}
+
+.team {
+    font-weight: 700;
+}
