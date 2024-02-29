@@ -6,8 +6,8 @@ const App = () => {
 
   return (
     <>
-      <h1>Heat Nation</h1>
-      <p>Stay up to date with the latest game schedule</p>
+      <h1>Heat Time</h1>
+      <p>Stay up to date with the latest <strong>Miami Heat</strong> game schedule</p>
       <div className="card-wrapper">
         <Card
           home={homeTeam}
@@ -31,7 +31,7 @@ const App = () => {
           date="2/29"
           time="10:00 PM"
           stadium="Ball Arena"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585483/heat-nuggets"
         />
         <Card
           home={homeTeam}
@@ -39,7 +39,7 @@ const App = () => {
           date="3/2"
           time="5:00 PM"
           stadium="Kaseya Center"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585495/jazz-heat"
         />
         <Card
           home={homeTeam}
@@ -47,7 +47,7 @@ const App = () => {
           date="3/5"
           time="7:30 PM"
           stadium="Kaseya Center"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585516/pistons-heat"
         />
         <Card
           home={homeTeam}
@@ -55,7 +55,7 @@ const App = () => {
           date="3/7"
           time="7:30 PM"
           stadium="American Airlines Center"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585532/heat-mavericks"
         />
         <Card
           home={homeTeam}
@@ -63,7 +63,7 @@ const App = () => {
           date="3/8"
           time="8:00 PM"
           stadium="Paycom Center"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585542/heat-thunder"
         />
         <Card
           home={homeTeam}
@@ -71,7 +71,7 @@ const App = () => {
           date="3/10"
           time="6:00 PM"
           stadium="Kaseya Center"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585554/wizards-heat"
         />
         <Card
           home={homeTeam}
@@ -79,7 +79,7 @@ const App = () => {
           date="3/13"
           time="7:30 PM"
           stadium="Kaseya Center"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585590/heat-pistons"
         />
         <Card
           home={homeTeam}
@@ -87,7 +87,7 @@ const App = () => {
           date="3/15"
           time="7:00 PM"
           stadium="Little Caesars Arena"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585590/heat-pistons"
         />
         <Card
           home={homeTeam}
@@ -95,7 +95,7 @@ const App = () => {
           date="3/17"
           time="3:00 PM"
           stadium="Little Caesars Arena"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585605/heat-pistons"
         />
         <Card
           home={homeTeam}
@@ -103,7 +103,7 @@ const App = () => {
           date="3/18"
           stadium="Wells Fargo Center"
           time="7:30 PM"
-          info="https://www.espn.com/nba/team/_/name/den/denver-nuggets"
+          info="https://www.espn.com/nba/game/_/gameId/401585613/heat-76ers"
         />
       </div>
     </>
