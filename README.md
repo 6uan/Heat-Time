@@ -1,35 +1,69 @@
-# Web Development Project 1 - Heat Nation (subject to change)
+# Web Development Project 1 - Heat Time
 
 Submitted by: Juan Gomez
 
-This web app: **insert description**
+This web app: This simple app returns the 12 latest games played by Miami Heat 
 
-Time spent: **X** hours spent in total
+Along with:
+- Stadium name
+- Date and time
+- Link to game on ESPN
+
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [✔️] **There is a unique theme for events or resources relevant to a specific community**
+- [✔️] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [✔️] Buttons or links to a related resources are on each card component
+- [✔️] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [✔️] Team Logos are SVG (they never lose quality)
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+<h1>Here's a walkthrough of implemented required features:</h1>
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**Unique theme for events relevant to a specific community ↓**
+
+<img src='/Users/buan/Downloads/Heat-Nation/unique_theme.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<br>
+
+**12 unique events displayed in a responsive card format ↓**
+
+<img src='/Users/buan/Downloads/Heat-Nation/twelve_cards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<br>
+
+<h1>Optional features are implemented:</h1>
+
+ **Buttons and links to a related resources on each card component ↓**
+
+ <img src='/Users/buan/Downloads/Heat-Nation/link_to_page.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<br>
+ **site is responsive for both desktop and mobile formats ↓**
+
+ <img src='/Users/buan/Downloads/Heat-Nation/responsive_layout.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+ <h1>Additional features are implemented:</h1>
+
+ **Team logos are SVG ↓**
+
+  <img src='/Users/buan/Downloads/Heat-Nation/logos_svg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<br>
+GIF created with KAP 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,6 +72,12 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+This app was relatively easy, my hardest challenge was implementing the ability to be able to change the team name AND team logo simply by changing the props. 
+
+ex -> 'mia' returns "Miami Heat" and the corresponding team logo
+
+ <img src='/Users/buan/Downloads/Heat-Nation/example.jpg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
