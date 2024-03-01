@@ -33,32 +33,28 @@ The following **additional** features are implemented:
 
 **Unique theme for events relevant to a specific community ↓**
 
-<img src='/Users/buan/Downloads/Heat-Nation/unique_theme.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<br>
+![unique_theme](https://github.com/6uan/Heat-Nation/assets/110940309/73ba0d1e-f9f6-4ce7-81ea-6dbd1930d21f)
 
 **12 unique events displayed in a responsive card format ↓**
 
-<img src='/Users/buan/Downloads/Heat-Nation/twelve_cards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![twelve_cards](https://github.com/6uan/Heat-Nation/assets/110940309/0db57576-7d49-466f-8b9e-500c32438044)
 
-<br>
 
 <h1>Optional features are implemented:</h1>
 
  **Buttons and links to a related resources on each card component ↓**
 
- <img src='/Users/buan/Downloads/Heat-Nation/link_to_page.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ ![link_to_page](https://github.com/6uan/Heat-Nation/assets/110940309/ea63be63-dadc-4cb7-9c62-4edf2c887edc)
 
-<br>
- **site is responsive for both desktop and mobile formats ↓**
+ **Site is responsive for both desktop and mobile formats ↓**
 
- <img src='/Users/buan/Downloads/Heat-Nation/responsive_layout.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ ![responsive_layout](https://github.com/6uan/Heat-Nation/assets/110940309/2b8a47bb-b6f3-4540-946b-d6c94a544890)
 
  <h1>Additional features are implemented:</h1>
 
  **Team logos are SVG ↓**
 
-  <img src='/Users/buan/Downloads/Heat-Nation/logos_svg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ ![logos_svg](https://github.com/6uan/Heat-Nation/assets/110940309/6204d599-6930-40da-bb39-fc49eca4fc39)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -77,7 +73,7 @@ This app was relatively easy, my hardest challenge was implementing the ability 
 
 ex -> 'mia' returns "Miami Heat" and the corresponding team logo
 
- <img src='/Users/buan/Downloads/Heat-Nation/example.jpg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ ![example](https://github.com/6uan/Heat-Nation/assets/110940309/5ccfb979-dfed-4ba0-82b2-387144ca5f51)
 
 ## License
 
